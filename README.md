@@ -317,12 +317,6 @@ If you use MechanicsDSL in your research, please cite:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Dr. Khalfiah (Stony Brook University) for research guidance
-- American Forge Institute for institutional support
-- SymPy and SciPy communities for foundational tools
-
 ## Contact
 
 **Noah Parsons**
