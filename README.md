@@ -306,7 +306,7 @@ If you use MechanicsDSL in your research, please cite:
 ```bibtex
 @article{parsons2025mechanicsdsl,
   title={MechanicsDSL: A Domain-Specific Language for Classical Mechanics Simulation},
-  author={Parsons, Noah and Khalfiah, [First Name]},
+  author={Parsons, Noah
   journal={Journal of Open Source Software},
   year={2025},
   note={In preparation}
