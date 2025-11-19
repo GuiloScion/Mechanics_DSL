@@ -5,7 +5,6 @@ A comprehensive framework for symbolic and numerical analysis of classical
 mechanical systems using LaTeX-inspired notation.
 
 Author: Noah Parsons
-Collaboration: Dr. Khalfiah, Stony Brook University
 Version: 0.2.0 - Major improvements and bug fixes
 """
 
