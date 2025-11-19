@@ -1,8 +1,8 @@
-Contributing to MechanicsDSL
+## Contributing to MechanicsDSL
 
 Thank you for your interest in contributing! Here's how you can help:
 
-Reporting Bugs
+## Reporting Bugs
 
 - Use GitHub Issues
 - Include: Python version, OS, error message, minimal example
