@@ -57,6 +57,7 @@ import platform
 import threading
 import ast
 import operator
+import signal
 
 __version__ = "0.4.0"
 __author__ = "Noah Parsons"
@@ -4253,4 +4254,5 @@ Running interactive demo with simple pendulum...
         print("  --help                       # See all options")
         print("="*70)
     else:
+
         sys.exit(main())
